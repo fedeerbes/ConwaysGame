@@ -45,7 +45,7 @@ class DummyGrid extends Component<{}> {
         <View style={styles.container}>
           <Text style={styles.welcome}>Welcome to React Native!</Text>
           <Text style={styles.instructions}>
-            This is a React Native snapshot test.
+            This is a React Native snapshot test for bitrise.
           </Text>
         </View>
       </View>
